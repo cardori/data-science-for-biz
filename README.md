@@ -37,3 +37,25 @@ Ideally, I would like to answer the following types of questions:
 * What is the Store (1 - 45) that has the most Sales (sum of Weekly_Sales)?
 * The data also has a flag for holiday (0 - not a holiday, 1 is a holiday)?  I want to see if that impacts the results.
 
+## How to install locally
+
+* create a local directory 
+   * `mkdir ds_biz`
+
+* change directory
+   * `cd ds_biz`
+
+* Download the git repository
+  * `git clone https://github.com/cardori/data-science-for-biz.git`
+
+* change directory
+   * `cd data-science-for-biz/`
+
+* Setup python virtual environment
+  * `python3 -m venv env`
+
+* Install python packages
+   * `pip install -r requirements.txt`
+
+* Run jupyter notebook locally
+   * `jupyter notebook`
