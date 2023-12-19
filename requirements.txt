@@ -1,0 +1,14 @@
+# baseline of python packages
+# not all are needed for this jupyter notebook
+numpy
+pandas
+scipy
+scikit-learn # optional
+scikit-image # optional
+pillow # optional
+matplotlib
+seaborn
+jupyter
+notebook
+requests # optional
+beautifulsoup4 # optional
