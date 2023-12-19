@@ -48,11 +48,9 @@ Ideally, I would like to answer the following types of questions:
 * Download the git repository
   * `git clone https://github.com/cardori/data-science-for-biz.git`
 
-* change directory
+* change directory and setup python virtual environment
    * `cd data-science-for-biz/`
-
-* Setup python virtual environment
-  * `python3 -m venv env`
+   * `python3 -m venv env`
 
 * Install python packages
    * `pip install -r requirements.txt`
